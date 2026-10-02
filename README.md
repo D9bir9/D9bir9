@@ -30,41 +30,7 @@ I'm a passionate **full-stack developer** and software engineer with deep expert
 - **Design Patterns**: Implementation and mastery of SOLID principles
 - **OOP Principles**: Comprehensive understanding of object-oriented design
 
-## Featured Projects
 
-### [Flight](https://github.com/D9bir9/Flight)
-Built my first project using **Test-Driven Development (TDD)** with .NET 10.
-- Stack: C# / .NET 10
-- Focus: TDD methodology, best practices in modern .NET development
-
-### [BulkyBook](https://github.com/D9bir9/BulkyBook)
-A comprehensive e-commerce platform built with modern .NET architecture.
-- Stack: C# / ASP.NET Core
-- Highlights: Full-featured API, database design, business logic
-
-### [GameStoreAPI](https://github.com/D9bir9/GameStoreAPI)
-RESTful API for managing game store operations and inventory.
-- Stack: C# / ASP.NET Core
-- Highlights: Clean API design, CRUD operations, data persistence
-
-### [Design Patterns & SOLID Principles](https://github.com/D9bir9/Design_Patterns_and_SOLID_Principles)
-Deep dive into software design patterns and SOLID principles with C#.
-- Demonstrates mastery of maintainable, scalable code architecture
-
-### [Multithreading](https://github.com/D9bir9/Multithreading)
-Advanced exploration of concurrent programming in C++.
-- Stack: C++
-- Covers thread management, synchronization, and parallel processing
-
-### [Socket Programming](https://github.com/D9bir9/Socket_Programming)
-Network programming fundamentals using low-level socket APIs.
-- Stack: C
-- Focus: Client-server communication, protocol implementation
-
-### [C String View](https://github.com/D9bir9/c-string-view)
-A lightweight, header-only, zero-allocation String View library for standard C.
-- Stack: C
-- Highlights: Performance optimization, memory efficiency, reusable utility
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D9bir9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
