@@ -6,8 +6,8 @@ I'm a passionate **full-stack developer** and software engineer with deep expert
 - 💼 Currently focused on: .NET development, C++ systems programming, and modern API design
 - 🌱 Learning: Advanced multithreading patterns, socket programming, and cloud architecture
 - 🎯 Interested in: Backend systems, microservices, design patterns, and low-level programming
-- 💬 Ask me about: C#, C++, OOP, API development, design patterns, and TDD
-- 📫 Reach me: [taiwoadejumo1234@gmail.com / www.linkedin.com/in/taiwo-adejumobi-101240439]
+- 💬 Ask me about: C#, C++, OOP, API development
+
 
 ## Tech Stack
 
@@ -38,8 +38,8 @@ I'm a passionate **full-stack developer** and software engineer with deep expert
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D9bir9&layout=compact&theme=tokyonight&langs_count=8)
 
 ## Let's Connect
-- 💼 LinkedIn: [www.linkedin.com/in/taiwo-adejumobi-101240439]
-- 📧 Email: [taiwoadejumo1234@gmail.com]
+- 💼 LinkedIn: www.linkedin.com/in/taiwo-adejumobi-101240439
+- 📧 Email: taiwoadejumo1234@gmail.com
 
 ---
 
