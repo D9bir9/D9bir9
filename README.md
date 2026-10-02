@@ -1,4 +1,4 @@
-# Hi, I'm D9bir9 👋
+# Hi, I'm Dabira 👋
 
 I'm a passionate **full-stack developer** and software engineer with deep expertise in backend development, systems programming, and object-oriented design. I love building scalable applications, exploring low-level concepts, and continuously mastering new technologies.
 
